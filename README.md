@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data Science | Matching Learning | Deep Learning**
+- 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/San0160](github.com/San0160)
 
