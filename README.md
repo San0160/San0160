@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/San0160]((https://github.com/San0160))
+- 👨‍💻 All of my projects are available [here](https://github.com/San0160)
 
 - 📫 How to reach me **sandeepaflc2000@gmail.com**
 
