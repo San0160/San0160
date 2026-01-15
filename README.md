@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center"> Data Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning**
 
