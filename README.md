@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sandeepaflc2000@gmail.com**
 
-- 📄 Know about my experiences [https://san0160.github.io/CV/](https://san0160.github.io/CV/)
+- 📄 Know about my experiences [https://san0160.github.io/CV/](https://san0160.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
