@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center"> Data Analyst</h3>
+<h3 align="center"> ML Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning**
+- 🌱 I’m currently learning **Data Science @ University of Hertfordshire**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/San0160)
 
