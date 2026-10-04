@@ -26,7 +26,7 @@ Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire an
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,opencv,fastapi,flask,mysql,aws,html,css&perline=11" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,fastapi,flask,mysql,aws,html,css&perline=11" alt="Tools" />
 </p>
 
 Also: Hugging Face, FAISS, seaborn, SQL, Postman.
