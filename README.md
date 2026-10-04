@@ -21,7 +21,7 @@ Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire an
 ### What I'm working on
 
 - A research assistant that answers questions over your documents, with cited sources
-- A few smaller experiments in AI, including some game-related ideas
+- A few smaller pet projects in AI.
 
 ### Tools
 
