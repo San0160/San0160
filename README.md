@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center"> <#######></h3>
+<h1 align="center">Sandeep Kumar</h1>
+<p align="center">Data Science student building practical AI and machine learning projects.</p>
 
-- 🌱 I’m currently learning **Data Science @ University of Hertfordshire**
-
-- 👨‍💻 All of my projects are available [here](https://github.com/San0160)
-
-- 📫 How to reach me **sandeepaflc2000@gmail.com**
-
-- 📄 Know about my experiences [https://san0160.github.io/CV/](https://san0160.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandeep-kumar0160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep kumar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/sandeep-kumar0160">LinkedIn</a> ·
+  <a href="https://san0160.github.io/CV/">CV</a> ·
+  <a href="mailto:sandeepaflc2000@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire and I enjoy turning ideas into working projects, from messy data and models through to APIs people can actually use.
+
+**What I'm into**
+- Applied machine learning and data analysis
+- LLM applications, including retrieval-augmented generation (RAG)
+- Clean, well-structured code that is tested and easy to extend
+
+**What I'm working on**
+- A research assistant that answers questions over your documents, with cited sources
+- A few smaller experiments in AI, including some game-related ideas
+
+**Tools I use**
+Python, SQL, scikit-learn, TensorFlow, pandas, OpenCV, Hugging Face, FAISS, FastAPI, Flask, MySQL, AWS
+
+**Find me**
+My projects are on [GitHub](https://github.com/San0160), my background is on my [CV](https://san0160.github.io/CV/), and the quickest way to reach me is by [email](mailto:sandeepaflc2000@gmail.com).
