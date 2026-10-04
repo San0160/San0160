@@ -14,7 +14,7 @@ Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire an
 
 ### What I'm into
 
-- Applied machine learning and data analysis
+- Applied machine learning and engineering
 - LLM applications, including retrieval-augmented generation (RAG)
 - Clean, well-structured code that is tested and easy to extend
 
