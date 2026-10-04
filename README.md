@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Sandeep%20Kumar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20Applied%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=16" alt="Sandeep Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Sandeep%20Kumar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20Applied%20AI%20and%20Machine%20Learning&descAlignY=60&descSize=16" alt="Sandeep Kumar" />
 
 <a href="https://linkedin.com/in/sandeep-kumar0160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://san0160.github.io/CV/"><img src="https://img.shields.io/badge/CV-203a43?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
@@ -14,7 +14,7 @@ Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire an
 
 ### What I'm into
 
-- Applied machine learning and engineering
+- Applied machine learning and data analysis
 - LLM applications, including retrieval-augmented generation (RAG)
 - Clean, well-structured code that is tested and easy to extend
 
@@ -26,7 +26,7 @@ Hi, I'm Sandeep. I'm studying Data Science at the University of Hertfordshire an
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,fastapi,flask,mysql,aws,html,css&perline=11" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,opencv,fastapi,flask,mysql,aws,html,css&perline=11" alt="Tools" />
 </p>
 
 Also: Hugging Face, FAISS, seaborn, SQL, Postman.
